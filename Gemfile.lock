@@ -141,6 +141,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 40)
   jekyll
+  jekyll-paginate
   json
   rake
   sass

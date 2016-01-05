@@ -1,8 +1,8 @@
 permalink   : /:categories/:year/:title/
 markdown    : kramdown
-highlighter : pygments
+highlighter : Rouge
 
-paginate: 2 #6
+paginate: 5 #6
 comments: true
 paginate_path: "/page/:num"
 
@@ -12,13 +12,14 @@ sass:
   sass_dir: _scss
   style: compressed
 
+
 # Site settings
 title: kathy
 description: "A free Jekyll theme"
 email: kathyluj@hotmail.com
 baseurl: "/Kathy" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com"
-url: "http://nandomoreira.me/lora"
+url: "https://github.com/Teemobustin/Teemobustin.github.io/Kathy"
 repository: "https://github.com/Teemobustin/Teemobustin.github.io"
 # disqus_shortname: "fernandomoreira"
 # google_analytics: UA-52446115-1
